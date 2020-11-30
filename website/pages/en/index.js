@@ -61,6 +61,7 @@ const quickStart = `${pre}sh
 npm install -g bs-platform
 bsb -init my-first-app -theme basic-reason
 cd my-first-app
+npm install
 npm run start
 ${pre}`;
 
